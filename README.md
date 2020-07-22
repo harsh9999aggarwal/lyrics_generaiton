@@ -1,2 +1,3 @@
-# lyrics_generaiton
-(next word predictor)
+# lyrics_generation
+
+# (next word predictor)
